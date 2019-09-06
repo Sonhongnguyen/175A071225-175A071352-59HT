@@ -1,0 +1,40 @@
+
+
+
+
+
+
+footer{
+	margin-top: 40px; 
+	color: white;
+	background: #1211CFFF;
+}
+.font-weight-bold{
+	color: white;
+	text-decoration: none;
+}
+.font-weight-bold:hover{
+	text-decoration: underline;
+} 
+.list-unstyled li a{
+	color: #919393FF;
+}
+.btn{
+	color: white;
+	background: #2C53FEFF;
+	border: 0;
+	width: 250px;
+	text-align: left;
+}
+.btn:hover{
+	color: blue;
+	background: white;
+}
+.end{
+	background: white;
+	color: black;
+	font-size: 13px;
+}
+.ttlh{
+	margin-top: -10px
+}
