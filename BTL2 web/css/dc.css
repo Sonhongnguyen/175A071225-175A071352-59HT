@@ -1,0 +1,22 @@
+ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; }
+li {
+float: left;
+
+display: block;
+
+text-align: center;
+padding: 16px;
+text-decoration: none;
+border-width: 1px;
+   border-style: solid;
+   width: 250px;
+   height: 20px;
+}
+footer{
+    text-align: center;
+    border-width: 1px;
+   border-style: solid;
+   width: 1425px;
+   height: 20px;
+
+}

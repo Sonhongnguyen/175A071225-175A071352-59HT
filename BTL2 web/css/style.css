@@ -1,4 +1,33 @@
+#flip i{
+	border: 0px;
+}
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: white;
+  border: solid 1px #c3c3c3;
+}
 
+#panel {
+  padding: 50px;
+  display: none;
+  background-color: #1211CFFF;
+  text-align: left;
+}
+#panel .container .row .col-sm a{
+	color: white;
+}
+#panel .container .row .col-sm a:hover{
+	color: #FED67CFF;
+}
+main  h5 u{
+	font-size: 20px;
+	font-family: :open sans;
+}
+main img{
+	height: 247px;
+	width: 370px;
+}
 
 
 
