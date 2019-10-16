@@ -10,11 +10,15 @@ if(isset($_POST['login'])){
 	
 		$result=mysqli_query($conn,$sql);
 		$row = mysqli_fetch_assoc($result);
-		if(password_verify($password, $row['password'])){
+		if(password_verify($pass, $row['password'])){
 			$_SESSION['user']=$email;
-			header('location:admin.php');// kiem tra dung thi cho vao trnag admin
+			header('location:html/Quantrihethong.php');// kiem tra dung thi cho vao trnag admin
 		}
-		
+		else{
+			
+			echo "<script type='text/javascript'>alert('Sai mật khẩu.');</script>";
+						 
+		}
 
 
 
