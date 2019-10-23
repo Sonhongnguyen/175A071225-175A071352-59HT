@@ -1,0 +1,75 @@
+html {
+    -webkit-tap-highlight-color: transparent;
+}
+body {
+	 font-size: 16px;
+    line-height: 1.8;
+     color: #333;
+    font-family: "Roboto Slab", serif ;
+    background-color: #fff;
+    font-weight: 400;
+
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.widget.gsc-heading.style-default .title {
+    font-weight: 600;
+    margin: 0;
+    position: relative;
+    color: #262C38;
+    font-size: 25px;
+    padding-bottom: 8px;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.gsc-heading .title {
+     font-size: 25px ;
+    font-weight: 700 ;
+    font-size: 1.5em ;
+    text-transform: uppercase ;
+    color: #0067ac ;
+}
+div {
+    display: block;
+}
+
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif ;
+    font-weight: 700;
+}
+h2, .h2 {
+    font-size: 28px;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    line-height: 1.1;
+    color: #262C38;
+}
+user agent stylesheet
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.widget.gsc-heading.style-default.align-center {
+    text-align: center;
+}
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
