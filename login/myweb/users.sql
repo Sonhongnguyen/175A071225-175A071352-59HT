@@ -39,13 +39,13 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`) VALUES
-(30, 'tung123', '$2y$10$zt99GIPpPXT8Zs3OLgMJ2O7PHMV1VPf9/veBMyHKdGqfpHN9iMrIy'),
-(31, 'tung', '$2y$10$j9dLKOa5ar.xl.sJyozU4emRIaSORq2pZd9U1OeWPGIawItWgousq'),
-(32, 'tung0', '$2y$10$FlcXxonNjRNfTjpogBHqG.WXQm32cz992ZQOuJJrkzof8kco0ewHe'),
-(33, 'tungdz', '$2y$10$/Jj2KZEoo9uNDuKrHQ6ufuzXlgs/3v8XMJGrgAu.S6E2aLDUazCZ6'),
-(34, 'tung02', '$2y$10$nzAR87tPrVq6mULCKljdTuo1XcVnlIpN99ZzsWFSRWs3ud4zH6KSC'),
-(35, 'pmskipper', '$2y$10$pO09Vun4GUnFLo6uoHweM.SF88lQB1S1IO9Pb24Ax8N4R5tYfyiNe'),
-(36, 'user1', '$2y$10$/8Vh.iBOqJfP3LkUak/4Be5yN7VtI33H2sxdkW6PpfRB4A60qGEuG');
+(1, 'tung123', '$2y$10$zt99GIPpPXT8Zs3OLgMJ2O7PHMV1VPf9/veBMyHKdGqfpHN9iMrIy'),
+(2, 'tung', '$2y$10$j9dLKOa5ar.xl.sJyozU4emRIaSORq2pZd9U1OeWPGIawItWgousq'),
+(3, 'tung0', '$2y$10$FlcXxonNjRNfTjpogBHqG.WXQm32cz992ZQOuJJrkzof8kco0ewHe'),
+(4, 'tungdz', '$2y$10$/Jj2KZEoo9uNDuKrHQ6ufuzXlgs/3v8XMJGrgAu.S6E2aLDUazCZ6'),
+(5, 'tung02', '$2y$10$nzAR87tPrVq6mULCKljdTuo1XcVnlIpN99ZzsWFSRWs3ud4zH6KSC'),
+(6, 'pmskipper', '$2y$10$pO09Vun4GUnFLo6uoHweM.SF88lQB1S1IO9Pb24Ax8N4R5tYfyiNe'),
+(7, 'user1', '$2y$10$/8Vh.iBOqJfP3LkUak/4Be5yN7VtI33H2sxdkW6PpfRB4A60qGEuG');
 
 --
 -- Chỉ mục cho các bảng đã đổ

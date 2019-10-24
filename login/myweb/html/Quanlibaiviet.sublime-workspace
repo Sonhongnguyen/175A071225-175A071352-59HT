@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html/"
+			],
+			[
+				"mysql_",
+				"mysql_error"
+			],
+			[
+				"a",
+				"admin.php"
+			],
+			[
+				"l",
+				"loginv1.php"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"mysql_r",
+				"mysql_real_escape_string"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"r",
+				"register.php"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"my",
+				"mysqli_query"
+			],
+			[
+				"res",
+				"$result〔variable〕"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"_",
+				"$_POST〔variable〕"
+			],
+			[
+				"t",
+				"type\t$.type()"
+			],
+			[
+				"c",
+				"click〔function〕"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"passwo",
+				"password_verify"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"ri",
+				"right\tfloat"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"_t",
+				"_tagRow"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"_ta",
+				"_tagRow〔variable〕"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"le",
+				"left\ttext-align"
+			],
+			[
+				"u",
+				"underline\ttext-decoration"
+			],
+			[
+				"from-",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"ge",
+				"get\t$.get()"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"j",
+				"Js/"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"n",
+				"none\ttext-decoration"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"no",
+				"none\tlist-style-type"
+			],
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"san",
+				"sans-serif\tfont-family"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"cen",
+				"center\ttext-align"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"hi",
+				"height\tproperty"
+			],
+			[
+				"q",
+				"qsa\tquerySelectorAll"
+			],
+			[
+				"cr",
+				"createElement〔function〕"
+			],
+			[
+				"ch",
+				"chuoithongbao"
+			],
+			[
+				"te",
+				"txtUserName"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ti",
+				"tieude"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"ca",
+				"Cat"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fr",
+				"form\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"de",
+				"deciamal"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Controll:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"/*! jQuery v3.4.1 | (c) JS Foundation and other contributors | jquery.org/license */",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/Quanlibaiviet.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/XoaBai.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/session.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/checklogin.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/Quantrihethong.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/QuanTriHinhAnh.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/ThemAnh.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/word/wordpress/wp-config.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/users.sql",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/Thembaiviet.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/BaiVietDaDang.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/ChinhSuaBaiViet.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/myweb/html/CapNhatAnh.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/test.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/register.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/checklogin.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/admin.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/database.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/crigister.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/loginv1.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/checkloginv1.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/._login.css",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/register-page.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/process-register-page.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/process-register-page.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/login.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/index.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/register1.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/._checklogin.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/nav.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch03/login/mysqli_connect.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/._register-page.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/register-view-users.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/register-thanks.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/loginv2.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/scrip.js",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/sendmail.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/sendmail.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/logout.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/Forgotpassword.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac05/login.css",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch04/admintable/admintable/._admintable.sql",
+		"/Users/phamviettung/Documents/GitHub/175A071225-175A071352-59HT/Tôn đưc thắng./JS/jscript.js",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac2/untitled",
+		"/Users/phamviettung/Documents/GitHub/175A071225-175A071352-59HT/Tôn đưc thắng./HTML/header.html",
+		"/Users/phamviettung/Documents/GitHub/175A071225-175A071352-59HT/Tôn đưc thắng./CSS/myweb.css",
+		"/Users/phamviettung/Documents/GitHub/175A071225-175A071352-59HT/Tôn đưc thắng./HTML/KH-CN.html",
+		"/Users/phamviettung/Documents/GitHub/175A071225-175A071352-59HT/Tôn đưc thắng./HTML/footer.html",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac2/indexbook1.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac2/indexbook2.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac2/getbook1.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac2/delete.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/mysqli_connect.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/practical/Ch01/._mysqli_connect.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/prac2/deletebook.php",
+		"/Users/phamviettung/Documents/indexbook1.html",
+		"/Users/phamviettung/Documents/getbook1.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/indexbook.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/getbook.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/index.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/Getbook.php",
+		"/Users/phamviettung/.bitnami/stackman/machines/xampp/volumes/root/htdocs/._Getbook.php",
+		"/Users/phamviettung/Desktop/Getbook.php",
+		"/Users/phamviettung/Desktop/index.php",
+		"/Users/phamviettung/Documents/GitHub/CSE391_175A071309_175A071352?fbclid=IwAR2iDgPrfCre7V_-vQwre1RefZ58PIlpcEmgyisDyr5rmSRS3akqJOw2BEc/indexmtcn/BTL/admin.html",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise06.css",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise07.css",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise05.css",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise04.css",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise03.css",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise03.html",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise01.css",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise01.html",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise02.css",
+		"/Users/phamviettung/Downloads/ch07-lab-start-master/lab07-exercise02.html",
+		"/Users/phamviettung/Desktop/BTL2 web/css/style.css",
+		"/Users/phamviettung/Desktop/BTL2 web/index.html",
+		"/Users/phamviettung/Documents/GitHub/CSE391_175A071309_175A071352?fbclid=IwAR2iDgPrfCre7V_-vQwre1RefZ58PIlpcEmgyisDyr5rmSRS3akqJOw2BEc/Sơ đồ lớp/index.html",
+		"/Users/phamviettung/Desktop/giohang.css",
+		"/Users/phamviettung/Desktop/giohang.html",
+		"/Users/phamviettung/Documents/GitHub/CSE391_175A071309_175A071352?fbclid=IwAR2iDgPrfCre7V_-vQwre1RefZ58PIlpcEmgyisDyr5rmSRS3akqJOw2BEc/Sơ đồ lớp/main.js",
+		"/Users/phamviettung/Documents/GitHub/CSE391_175A071309_175A071352?fbclid=IwAR2iDgPrfCre7V_-vQwre1RefZ58PIlpcEmgyisDyr5rmSRS3akqJOw2BEc/Sơ đồ lớp/giohang.html",
+		"/Users/phamviettung/Documents/GitHub/CSE391_175A071309_175A071352?fbclid=IwAR2iDgPrfCre7V_-vQwre1RefZ58PIlpcEmgyisDyr5rmSRS3akqJOw2BEc/Sơ đồ lớp/jquery-3.4.1.min.js",
+		"/Users/phamviettung/Documents/GitHub/CSE391_175A071309_175A071352?fbclid=IwAR2iDgPrfCre7V_-vQwre1RefZ58PIlpcEmgyisDyr5rmSRS3akqJOw2BEc/Sơ đồ lớp/style.css",
+		"/Users/phamviettung/Downloads/SQLQuery1.sql",
+		"/Users/phamviettung/Desktop/Trường Đại Học Nguyễn Tất Thành - NTTU.htm",
+		"/Users/phamviettung/Desktop/BTL/index.html",
+		"/Users/phamviettung/Desktop/Git/BTL/index.html",
+		"/Users/phamviettung/Documents/GitHub/CSE391_175A071309_175A071352?fbclid=IwAR2iDgPrfCre7V_-vQwre1RefZ58PIlpcEmgyisDyr5rmSRS3akqJOw2BEc/indexmtcn/BTL/index.html",
+		"/Users/phamviettung/Desktop/BTL/Js/admin.js",
+		"/Users/phamviettung/Desktop/BTL/admin.html",
+		"/Users/phamviettung/Desktop/BTL/Css/style.css",
+		"/Users/phamviettung/Desktop/BTL/Css/2.html",
+		"/Users/phamviettung/Desktop/dat.html",
+		"/Users/phamviettung/Desktop/BTL/1234.html",
+		"/Users/phamviettung/Desktop/BTL/menu.html",
+		"/Users/phamviettung/Desktop/BTL/Css/menu.css",
+		"/Users/phamviettung/Desktop/BTL/Css/1.css",
+		"/Users/phamviettung/Desktop/BTL/Css/2.css",
+		"/Users/phamviettung/Desktop/BTL/admin.js",
+		"/Users/phamviettung/Desktop/BTL/Css/@charset \"utf-8\";.css",
+		"/Users/phamviettung/Desktop/admin.html",
+		"/Users/phamviettung/Desktop/BTL/1.html",
+		"/Users/phamviettung/Desktop/BTL/2.css",
+		"/Users/phamviettung/Desktop/style.css",
+		"/Users/phamviettung/Desktop/BTL/ bootstrap-4.3.1-dist/css/bootstrap.css",
+		"/Users/phamviettung/Desktop/BTL/Js/scrip.js",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/css/style_cn.css",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/DHMTCN.html",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/index.html",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/tlu.html",
+		"/Users/phamviettung/Desktop/BTL/test.html",
+		"/Users/phamviettung/Desktop/untitled.html",
+		"/Users/phamviettung/Desktop/1.html",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/js/custom.js",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/6.js",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/6.html",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/6.css",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/th3.html",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/css/123.css",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/123.html",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/kt1.hmtl",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/untitled",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/kt1.html",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/css/custom.css",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/th3.css",
+		"/Users/phamviettung/Desktop/HTML_CSS_JVS/học nhiều/Bản sao jquery-3.4.1.min.js",
+		"/Users/phamviettung/Desktop/BTL/Css/scrip.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Quanlibaiviet.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/HTML_CSS_JVS/1.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

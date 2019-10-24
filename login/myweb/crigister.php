@@ -33,7 +33,7 @@ try {
 		$query = "INSERT INTO users (email,password) VALUES('$email','$hashed_passcode') ";
         if(mysqli_query($conn, $query))  
            {  
-                header ("location: admin.php"); 
+                header ("location:html2/index.php"); 
            }  
             else {
 		    $errorstring = "<p style='color:red'>";

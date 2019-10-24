@@ -12,13 +12,10 @@ if(isset($_POST['login'])){
 		$row = mysqli_fetch_assoc($result);
 		if(password_verify($pass, $row['password'])){
 			$_SESSION['user']=$email;
-			header('location:html/Quantrihethong.php');// kiem tra dung thi cho vao trnag admin
-		}
-		else{
 			
-			echo "<script type='text/javascript'>alert('Sai mật khẩu.');</script>";
-						 
+			header('location:html2/index.php');// kiem tra dung thi cho vao trnag admin
 		}
+		
 
 
 
